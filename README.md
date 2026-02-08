@@ -1,4 +1,3 @@
-# Stock-Sentiment-Analysis
 # Stock Market Sentiment Analysis Using Twitter Data
 
 ## Overview
